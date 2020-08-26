@@ -1,6 +1,6 @@
 # MtG Script Automater
 
-### [Live Development Build](http://MtGscript.bramley.design)
+### [Live Development Build](https://mtgscript.bramleyjl.com)
 
 MtG Script Automater is a web application for quickly parsing text to find Magic: the Gathering card names and return their corresponding card images. Users can select from all available versions of each card and pick the version of their choice, then batch download high quality images of each card.
 
